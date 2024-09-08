@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://2pia.github.io/sitemap/sitemap.txt
